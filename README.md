@@ -99,6 +99,13 @@ BookMark for some websit
     <h5> Real-time Charts and Gauges</h5>
     (http://www.fusioncharts.com/explore/real-time-charts/)
   </li>
+    <h5> ThreadLocal的几种误区</h5>
+    (http://www.blogjava.net/jspark/archive/2006/08/01/61165.html)
+  </li>
+  </li>
+    <h5> 正确理解ThreadLocal - 设计模式 - Java - ITeye论坛</h5>
+    (http://www.iteye.com/topic/103804)
+  </li>
 
 </ul>
 <ul> <h3>======================================开发工具</h3>
@@ -106,6 +113,9 @@ BookMark for some websit
     <h5>Sublime  ement</h5>
     (http://www.sublimetext.com/)
   </li>
-
+<li>
+    <h5>url action editor</h5>
+    (url action editor)
+  </li>
 </ul>
 
